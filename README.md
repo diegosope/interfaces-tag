@@ -1,6 +1,6 @@
 
 # Interfaces Tag
-Funny interfaces tag for panel (Generic Monitor)
+Funny interfaces tag for panel scripts (Generic Monitor)
 
 [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 
